@@ -5,7 +5,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
+* [Libraries Used](#technologies-used)
 * [Some inferences from the BoomBike data analysis](#inferences)
 * [Acknowledgements](#acknowledgements)
 
